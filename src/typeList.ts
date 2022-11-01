@@ -2,9 +2,11 @@
 
 // boolean
 let bool: boolean = true;
+//let bool2: boolean = "a";
 
 //number
 let num: number = 0;
+//let num2: number = "a";
 
 //string
 let str: string = "AAA";
