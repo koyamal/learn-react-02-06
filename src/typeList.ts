@@ -10,10 +10,14 @@ let num: number = 0;
 
 //string
 let str: string = "AAA";
+//let str2: string = 0;
 
 //array
 let arr1: Array<number> = [0, 1, 2];
 let arr2: number[] = [0, 1, 2];
+
+//let arr3: Array<number> = [0, "1", 2];
+//let arr4: Array<number> = 0;
 
 //tuple
 let tuple: [number, string] = [0, "A"];
