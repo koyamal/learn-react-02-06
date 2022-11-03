@@ -21,9 +21,11 @@ let arr2: number[] = [0, 1, 2];
 
 //tuple
 let tuple: [number, string] = [0, "A"];
+// let tuple2: [number, string] = ["A", 0];
 
 //any
 let any1: any = false;
+// let any2: any = "A";
 
 //void
 const funcA = (): void => {
