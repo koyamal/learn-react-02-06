@@ -32,6 +32,11 @@ const funcA = (): void => {
   const test = "TEST";
 };
 
+// const funcB = (): void => {
+//   const test = "TEST";
+//   return test;
+// }
+
 //null
 let null1: null = null;
 
