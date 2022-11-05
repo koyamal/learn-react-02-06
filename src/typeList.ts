@@ -39,6 +39,7 @@ const funcA = (): void => {
 
 //null
 let null1: null = null;
+// let null2: null = undefined;
 
 //undefined
 let undefined1: undefined = undefined;
