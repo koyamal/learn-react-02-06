@@ -43,6 +43,7 @@ let null1: null = null;
 
 //undefined
 let undefined1: undefined = undefined;
+// let undefined2: undefined = null;
 
 //object
 let obj1: object = {};
