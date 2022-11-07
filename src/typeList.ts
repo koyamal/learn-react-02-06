@@ -48,3 +48,5 @@ let undefined1: undefined = undefined;
 //object
 let obj1: object = {};
 let obj2: { id: number; name: string } = { id: 0, name: "A" };
+// let obj3: object = "test";
+// let obj4: {id: number; name: string} = {id: "taro", name:0};
